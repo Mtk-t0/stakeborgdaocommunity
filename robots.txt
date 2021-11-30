@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://andreivdev.github.io/stakeborgdaocommunity/sitemap.xml.gz
+Sitemap: https://stakeborgcommunity.ddns.net/sitemap.xml.gz
