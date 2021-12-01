@@ -1,5 +1,5 @@
 ---
-authors: [Mihnea]
+authors: [Mihnea T.]
 ---
 
 # Bitcoin și Școala Austriacă de economie
