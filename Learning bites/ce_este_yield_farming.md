@@ -8,7 +8,7 @@ Asemenea lumii financiare tradiționale, universul DeFi se folosește de mecanis
 
 La bază, yield farming-ul se referă la împrumutarea cryptomonedelor între utilizatori, fapt ce le permite creditorilor să împrumute la dobânzi relativ mici și debitorilor să încaseze dobândă. Precum în cazul băncilor tradiționale, utilizatorii își pot “pune la treabă” fondurile pe care nu le utilizează și să genereze venit.
 
-Primul pas în yield farming este adăugarea fondurilor într-un liquidity pool, un smart contract care deține cryptomonede. Acestea sunt baza marketplace-urilor întrucât dau posibilitățile de tranzacționare a fondurile din pool și de împrumut. Odată ce ai adăugat fondurile într-un liquidity pool ai devenit un liquidity provider.
+Primul pas în yield farming este adăugarea fondurilor într-un liquidity pool, un smart contract care deține cryptomonede. Acestea sunt baza marketplace-urilor întrucât dau posibilitățile de tranzacționare a fondurilor din pool și de împrumut. Odată ce ai adăugat fondurile într-un liquidity pool ai devenit un liquidity provider.
 
 Recompensa primită (dobândă) pentru furnizarea de lichiditate vine din colectarea unui procentaj din comisioanele generate de platformă (spre exemplu, Uniswap V3 le permite liquidity providerilor să creeze pool-uri cu trei nivele de comisioane: 0.05%, 0.3% și 1%). La rândul lor, recompensele primite (adesea sub forma de altă cryptomoneda) pot fi depozitate în liquidity pools pentru a crește randamentul.
 
